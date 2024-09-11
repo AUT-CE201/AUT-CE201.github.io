@@ -1,8 +1,5 @@
 title:  What's Included
 includes:
-  - meta: Hours
-    data: 20
-
   - meta: Assistants
     data: 10
 
