@@ -1,6 +1,12 @@
 title:  What's Included
 includes:
+  -meta: Hour
+    data: 20+
+    
   - meta: Assistants
+    data: 10
+
+  - meta: Labs
     data: 10
 
   - meta: Students
