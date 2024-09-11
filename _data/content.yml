@@ -3,14 +3,11 @@ includes:
   - meta: Hours
     data: 20
 
-  - meta: Exercises
-    data: 6
-
   - meta: Assistants
-    data: 45
+    data: 10
 
   - meta: Students
-    data: 170+
+    data: 100+
 
  
 
