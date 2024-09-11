@@ -1,5 +1,5 @@
-# SUTAP Github Page
+# AUTDD Github Page
 
-[Sharif University of Technology - Advanced Programming course](https://advprog2020.github.io/)
+[Amirkabir University of Technology - Digital Design course](https://ce201.aut.github.io/)
 
 modify site data from `_data/` yaml files
