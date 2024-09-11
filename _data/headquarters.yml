@@ -1,6 +1,6 @@
 - name: Reza Adinepour
   role: Head TA
-  image: rezaadinepour.jpg
+  image: rezaadinepour.png
   social:
     - name: github
       link: https://github.com/rezaadinepour
@@ -8,9 +8,9 @@
       link: https://linkedin.com/in/adinepour
     - name: twitter
       link: https://twitter.com/adinep0ur
-- name: Ahmad Salimi
+- name: TA 1
   role: Head of Project
-  image: ahmadsalimi.png
+  image: default.png
   social:
     - name: github
       link: https://github.com/ahmadsalimi
