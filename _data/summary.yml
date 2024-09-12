@@ -3,14 +3,14 @@
   icon: clock
   desc: Hours
 
-- title: Exercises
-  value: 4+2 Extras
+- title: Assignment
+  value: 10 Extras
   icon: book
 
 - title: TAs
-  value: 45
+  value: 7
   icon: users
 
 - title: Students
-  value: 170+
+  value: 100+
   icon: user-circle
