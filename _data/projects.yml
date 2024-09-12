@@ -71,60 +71,60 @@
           url: https://github.com/aps2019project/project-47
         - title: Aparat
           url: https://www.aparat.com/v/zHWxt\
-# - semester: Fall 2018
-#   title: Farm Frenzy
-#   icon: piggy-bank
-#   projects:
-#     - team: Team 5
-#       links:
-#         - title: Namasha
-#           url: https://www.namasha.com/v/ab2QCCad
-#     - team: Team 1
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/RKrqx
-#     - team: Team 10
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/IDido
-#     - team: Team 7
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/QeWbG
-#     - team: Team 11
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/59HVU
-#     - team: Team 17
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/2N10Y
+- semester: Fall 2018
+  title: Farm Frenzy
+  icon: piggy-bank
+  projects:
+    - team: Team 5
+      links:
+        - title: Namasha
+          url: https://www.namasha.com/v/ab2QCCad
+    - team: Team 1
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/RKrqx
+    - team: Team 10
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/IDido
+    - team: Team 7
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/QeWbG
+    - team: Team 11
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/59HVU
+    - team: Team 17
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/2N10Y
 
-# - semester: Spring 2018
-#   title: Clash of Clans
-#   icon: shield-alt
-#   projects:
-#     - team: Team 3
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/x7hQD
-#     - team: Team 1
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/h3DgF
-#     - team: Team 6
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/KtZps
-#     - team: Team 7
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/QeWbG
-#     - team: Team 12
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/pfniQ
-#     - team: Team 15
-#       links:
-#         - title: Aparat
-#           url: https://www.aparat.com/v/26MgQ
+- semester: Spring 2018
+  title: Clash of Clans
+  icon: shield-alt
+  projects:
+    - team: Team 3
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/x7hQD
+    - team: Team 1
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/h3DgF
+    - team: Team 6
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/KtZps
+    - team: Team 7
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/QeWbG
+    - team: Team 12
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/pfniQ
+    - team: Team 15
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/26MgQ
