@@ -2,26 +2,23 @@
   title: Jaqub Barghi
   icon: shopping-cart
   projects:
-    - team: Team 10
+    - team: Team 1
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-10
-        - title: Aparat
-          url: https://www.aparat.com/v/H2NrO
-    - team: Team 20
+          url: https://github.com/AUT-LCLab/project-spring2024-ballmerpeak
+    - team: Team 2
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-20
-        - title: Aparat
-          url: https://www.aparat.com/v/bj8gx
-    - team: Team 34
+          url: https://github.com/AUT-LCLab/project-spring2024-ansa
+    - team: Team 3
       links:
         - title: Repository
-          url: https://github.com/AdvProg2020/Project_team-34
-        - title: Aparat
-          url: https://www.aparat.com/v/A5sWo
-        - title: Youtube
-          url: https://www.youtube.com/watch?v=JP1-S5qZk4E
+          url: https://github.com/AUT-LCLab/project-spring2024-super
+    - team: Team 4
+      links:
+        - title: Repository
+          url: https://github.com/AUT-LCLab/project-spring2024-super
+
 
 
 - semester: Fall 2023
