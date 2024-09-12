@@ -13,7 +13,8 @@ content: "First of all, it’s exciting! So why not? XD
   <br>
   What will you learn:"
 items:
-  - Boolean algebra, combinational circuit analysis
+  - Boolean algebra
+  - Combinational circuit analysis
   - Circuit Optimization
   - Verilog Coding
   - Arithmetic Circuits
