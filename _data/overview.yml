@@ -14,11 +14,12 @@ content: "First of all, it’s exciting! So why not? ^__^
   What will you learn:"
 items:
   - Boolean algebra
-  - Combinational circuit analysis
+  - Combinational circuit
   - Circuit Optimization
   - Verilog Coding
   - Arithmetic Circuits
   - Sequential Circuit
   - CMOS Circuits
+  - Programmable Logic Devic
   - FPGA
   - Counters and Registers
