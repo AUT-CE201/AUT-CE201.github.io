@@ -18,113 +18,83 @@
       links:
         - title: Repository
           url: https://github.com/AUT-LCLab/project-spring2024-super
-    - team: Team 4
+    - team: Team 5
       links:
         - title: Repository
           url: https://github.com/AUT-LCLab/project-spring2024-super
-    - team: Team 4
-      links:
-        - title: Repository
-          url: https://github.com/AUT-LCLab/project-spring2024-super
-
-
 
 - semester: Fall 2023
   title: Mortal Kombat
   icon: jedi
   projects:
-    - team: Team 7
+    - team: Team 1
       links:
         - title: Repository
-          url: https://github.com/aps2019project/Duelers
-        - title: Aparat
-          url: https://www.aparat.com/v/OJTf1
-        - title: YouTube
-          url: https://youtu.be/s0aTC6NB-yg
-    - team: Team 14
+          url: https://github.com/
+    - team: Team 2
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-14
-        - title: Aparat
-          url: https://www.aparat.com/v/EIphc
-    - team: Team 47
+          url: https://github.com/
+    - team: Team 3
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-47
-        - title: Aparat
-          url: https://www.aparat.com/v/zHWxt
-    - team: Team 47
+          url: https://github.com/
+    - team: Team 4
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-47
-        - title: Aparat
-          url: https://www.aparat.com/v/zHWxt
-    - team: Team 47
+          url: https://github.com/
+    - team: Team 5
       links:
         - title: Repository
-          url: https://github.com/aps2019project/project-47
-        - title: Aparat
-          url: https://www.aparat.com/v/zHWxt
-    - team: Team 47
-      links:
-        - title: Repository
-          url: https://github.com/aps2019project/project-47
-        - title: Aparat
-          url: https://www.aparat.com/v/zHWxt\
-- semester: Fall 2018
+          url: https://github.com/
+
+          
+- semester: Spring 2023
   title: Farm Frenzy
   icon: piggy-bank
   projects:
-    - team: Team 5
-      links:
-        - title: Namasha
-          url: https://www.namasha.com/v/ab2QCCad
     - team: Team 1
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/RKrqx
-    - team: Team 10
+        - title: Repository
+          url: https://github.com/
+    - team: Team 2
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/IDido
-    - team: Team 7
+        - title: Repository
+          url: https://github.com/
+    - team: Team 3
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/QeWbG
-    - team: Team 11
+        - title: Repository
+          url: https://github.com/
+    - team: Team 4
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/59HVU
-    - team: Team 17
+        - title: Repository
+          url: https://github.com/
+    - team: Team 5
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/2N10Y
+        - title: Repository
+          url: https://github.com/
 
-- semester: Spring 2018
+- semester: Fall 2022
   title: Clash of Clans
   icon: shield-alt
   projects:
-    - team: Team 3
-      links:
-        - title: Aparat
-          url: https://www.aparat.com/v/x7hQD
     - team: Team 1
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/h3DgF
-    - team: Team 6
+        - title: Repository
+          url: https://github.com/
+    - team: Team 2
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/KtZps
-    - team: Team 7
+        - title: Repository
+          url: https://github.com/
+    - team: Team 3
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/QeWbG
-    - team: Team 12
+        - title: Repository
+          url: https://github.com/
+    - team: Team 4
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/pfniQ
-    - team: Team 15
+        - title: Repository
+          url: https://github.com/
+    - team: Team 5
       links:
-        - title: Aparat
-          url: https://www.aparat.com/v/26MgQ
+        - title: Repository
+          url: https://github.com/
