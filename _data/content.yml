@@ -18,14 +18,13 @@ subtitle: Course Content
 
 lessons:
   - title: "Lesson 0 : Let's get started !"
-    requirements: "Your PC & Internet *___*"
+    requirements: "Nothing :)"
     description: "Start..."
     body: lesson_0
 
   - title: "Lesson 1 : Know the basics"
-    requirements: "Search, Search, Search"
-    description: "These are the essentials, learn them well while doing
-      <b>Exercise 1</b> and please learn how to search."
+    requirements: "Your motivation and interest *___*"
+    description: "These are the essentials, learn them well"
     body: lesson_1
 
   - title: "Lesson 2 : Clean Code"
