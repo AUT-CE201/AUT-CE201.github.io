@@ -50,33 +50,8 @@
 
           
 - semester: Spring 2023
-  title: Farm Frenzy
+  title: Smart House
   icon: piggy-bank
-  projects:
-    - team: Team 1
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 2
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 3
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 4
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 5
-      links:
-        - title: Repository
-          url: https://github.com/
-
-- semester: Fall 2022
-  title: Clash of Clans
-  icon: shield-alt
   projects:
     - team: Team 1
       links:
