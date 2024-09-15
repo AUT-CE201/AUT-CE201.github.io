@@ -8,16 +8,14 @@
       link: https://linkedin.com/in/adinepour
     - name: twitter
       link: https://twitter.com/adinep0ur
-- name: TA 1
-  role: Head of Project
-  image: default.png
+- name: Morteza Adelkhani
+  role: Head TA
+  image: mortezaadel.png
   social:
     - name: github
-      link: https://github.com/ahmadsalimi
+      link: https://github.com/MAdel93
     - name: linkedin
-      link: https://linkedin.com/in/ahmadsalimi
-    - name: twitter
-      link: https://twitter.com/ChichekaMan
+      link: https://www.linkedin.com/in/morteza-adelkhani-460a4b87/
 
 - name: TA 2
   role: Head of Assignments
