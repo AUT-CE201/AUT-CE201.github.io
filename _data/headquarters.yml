@@ -4,10 +4,6 @@
   social:
     - name: web
       link: https://github.com/mhgheisarieh
-    - name: linkedin
-      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
-    - name: twitter
-      link: https://twitter.com/mhgheisarieh- 
 
 - name: Prof. Mehdi Sedighi
   role: Instructor
@@ -15,10 +11,6 @@
   social:
     - name: email
       link: https://github.com/mhgheisarieh
-    - name: linkedin
-      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
-    - name: twitter
-      link: https://twitter.com/mhgheisarieh- 
 
 - name: Reza Adinepour
   role: Head TA
