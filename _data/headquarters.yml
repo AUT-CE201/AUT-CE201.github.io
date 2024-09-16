@@ -38,25 +38,3 @@
       link: https://github.com/MAdel93
     - name: linkedin
       link: https://www.linkedin.com/in/morteza-adelkhani-460a4b87/
-
-- name: TA 3
-  role: Head of Workshops
-  image: default.png
-  social:
-    - name: github
-      link: https://github.com/HamedKh99
-    - name: linkedin
-      link: https://www.linkedin.com/in/hamed-khanaki
-    - name: twitter
-      link: https://twitter.com/_hamedkhanaki
-
-- name: TA 4
-  role: Head of Public Relations
-  image: default.png
-  social:
-    - name: github
-      link: http://github.com/ahak14
-    - name: linkedin
-      link: https://www.linkedin.com/in/amirhosseinabbasi
-    - name: twitter
-      link: http://twitter.com/_AHAK_
