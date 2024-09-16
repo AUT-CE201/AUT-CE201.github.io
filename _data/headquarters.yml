@@ -2,15 +2,15 @@
   role: Instructor
   image: mortezasaheb.png
   social:
-    - name: voicemail
-      link: https://github.com/mhgheisarieh
+    - name: google
+      link: mailto:szamani@aut.ac.ir
 
 - name: Prof. Mehdi Sedighi
   role: Instructor
   image: mehdisedighi.png
   social:
     - name: google
-      link: https://github.com/mhgheisarieh
+      link: mailto:msedighi@aut.ac.ir
 
 - name: Reza Adinepour
   role: Head TA
