@@ -1,4 +1,15 @@
-- name: Reza Adinepour
+- name: Prof. Morteza Saheb Zamani
+  role: Instructor
+  image: mortezasaheb.png
+  social:
+    - name: google scolar
+      link: https://github.com/mhgheisarieh
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
+    - name: twitter
+      link: https://twitter.com/mhgheisarieh- 
+
+name: Reza Adinepour
   role: Head TA
   image: rezaadinepour.png
   social:
@@ -16,17 +27,6 @@
       link: https://github.com/MAdel93
     - name: linkedin
       link: https://www.linkedin.com/in/morteza-adelkhani-460a4b87/
-
-- name: TA 2
-  role: Head of Assignments
-  image: default.png
-  social:
-    - name: github
-      link: https://github.com/mhgheisarieh
-    - name: linkedin
-      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
-    - name: twitter
-      link: https://twitter.com/mhgheisarieh
 
 - name: TA 3
   role: Head of Workshops
