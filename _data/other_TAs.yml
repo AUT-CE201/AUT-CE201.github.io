@@ -1,6 +1,6 @@
-- name: TA 1
+- name: Anonymous
   roles:
-    - Project
+    - Grader
   image: default.png
   social:
     - name: github
@@ -10,10 +10,10 @@
     - name: twitter
       link: https://twitter.com/
 
-- name: TA 2
+
+- name: Anonymous
   roles:
-    - Public Relations
-    - Project
+    - Grader
   image: default.png
   social:
     - name: github
@@ -23,10 +23,37 @@
     - name: twitter
       link: https://twitter.com/
 
-- name: TA 3
+
+- name: Anonymous
   roles:
-    - Public Relations
-    - Project
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+- name: Anonymous
+  roles:
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+
+- name: Anonymous
+  roles:
+    - Grader
   image: default.png
   social:
     - name: github
